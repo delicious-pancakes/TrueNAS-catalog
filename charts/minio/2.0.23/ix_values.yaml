@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: minio/minio
-  tag: RELEASE.2024-10-13T13-34-11Z
+  tag: RELEASE.2024-10-13T13-34-11Z-cpuv1
 logSearchImage:
   pullPolicy: IfNotPresent
   repository: minio/operator
